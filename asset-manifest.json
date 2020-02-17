@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hoc-movies/static/css/main.0aa5e439.chunk.css",
+    "main.js": "/Hoc-movies/static/js/main.59cdbdbb.chunk.js",
+    "main.js.map": "/Hoc-movies/static/js/main.59cdbdbb.chunk.js.map",
+    "runtime-main.js": "/Hoc-movies/static/js/runtime-main.3f6b16ed.js",
+    "runtime-main.js.map": "/Hoc-movies/static/js/runtime-main.3f6b16ed.js.map",
+    "static/js/2.487053b6.chunk.js": "/Hoc-movies/static/js/2.487053b6.chunk.js",
+    "static/js/2.487053b6.chunk.js.map": "/Hoc-movies/static/js/2.487053b6.chunk.js.map",
+    "index.html": "/Hoc-movies/index.html",
+    "precache-manifest.2a75422824ea1aa4da81e378d801dbc0.js": "/Hoc-movies/precache-manifest.2a75422824ea1aa4da81e378d801dbc0.js",
+    "service-worker.js": "/Hoc-movies/service-worker.js",
+    "static/css/main.0aa5e439.chunk.css.map": "/Hoc-movies/static/css/main.0aa5e439.chunk.css.map",
+    "static/js/2.487053b6.chunk.js.LICENSE.txt": "/Hoc-movies/static/js/2.487053b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f6b16ed.js",
+    "static/js/2.487053b6.chunk.js",
+    "static/css/main.0aa5e439.chunk.css",
+    "static/js/main.59cdbdbb.chunk.js"
+  ]
+}
